@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Taneeee
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on projetcs based on it
+- 👀 I’m extremely excited to learn more of machine learning
+- I work to solve real world problems using machine learning
+
+
 
 <!---
 Taneeee/Taneeee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
